@@ -1,5 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=18526C&lines=Hi%2C+I'm+Emre.;I'm+an+iOS+Engineer.;I+love+programming.)](https://git.io/typing-svg)
-<h1 align="center">Hi, I'm Emre <img alt="Hi" width="50" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" /> </h1>
+<h1 align="center">Hi, I'm Emre <img alt="Hi" width="40" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif" /> </h1>
 
 
 <h3 align="center">A passionate iOS Engineer from Turkey</h3>
