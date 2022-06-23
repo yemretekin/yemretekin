@@ -1,5 +1,4 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=18526C&lines=Hi%2C+I'm+Emre.;I'm+an+iOS+Engineer.;I+love+programming.)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=yemretekin&style=flat-square)
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate iOS Engineer from Turkey</h3>
 
