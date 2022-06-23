@@ -1,6 +1,6 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=18526C&lines=Hi%2C+I'm+Emre.;I'm+an+Junior+iOS+Engineer.;I+love+programming.)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=18526C&lines=Hi%2C+I'm+Emre.;I'm+an+iOS+Engineer.;I+love+programming.)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate iOS Developer from Turkey</h3>
+<h3 align="center">A passionate iOS Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Swift and Flutter**
 
